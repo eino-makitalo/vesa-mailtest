@@ -1,0 +1,1 @@
+Example program to send mail using REST API
